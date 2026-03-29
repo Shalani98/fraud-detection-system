@@ -45,7 +45,7 @@ fraud-detection-system/
 ├── .gitignore
 └── README.md
 
-yaml
+
 
 
 ## ⚡ Setup Instructions
