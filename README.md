@@ -46,9 +46,7 @@ fraud-detection-system/
 └── README.md
 
 yaml
-Copy code
 
----
 
 ## ⚡ Setup Instructions
 
