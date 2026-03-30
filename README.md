@@ -1,3 +1,4 @@
+![Fraud Detection](fraud%20detection.png)
 # Fraud Detection System
 
 A **Python + Machine Learning project** for detecting credit card fraud, with a React frontend and Flask backend.  
